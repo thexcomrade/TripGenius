@@ -57,8 +57,8 @@ tripgenius-ai/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/thexcomrade/tripgenius
-cd tripgenius
+git clone https://github.com/thexcomrade/TripGenius
+cd TripGenius
 ```
 
 ### Backend Setup
