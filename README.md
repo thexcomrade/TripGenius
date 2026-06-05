@@ -1,5 +1,3 @@
-# TripGenius
-Plan Smarter. Travel Better.
 # TripGenius AI
 
 An AI-powered travel planning assistant that generates personalized end-to-end travel itineraries based on destination, travel duration, budget, travel preferences, and interests. The platform helps travelers plan trips efficiently by providing day-wise itineraries, accommodation recommendations, transportation suggestions, tourist attractions, local cuisines, weather insights, and travel tips in a single intelligent dashboard.
@@ -59,8 +57,8 @@ tripgenius-ai/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/tripgenius-ai.git
-cd tripgenius-ai
+git clone https://github.com/thexcomrade/tripgenius
+cd tripgenius
 ```
 
 ### Backend Setup
