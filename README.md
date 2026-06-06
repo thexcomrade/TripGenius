@@ -2,6 +2,8 @@
 
 An AI-powered travel planning assistant that generates personalized end-to-end travel itineraries based on destination, travel duration, budget, travel preferences, and interests. The platform helps travelers plan trips efficiently by providing day-wise itineraries, accommodation recommendations, transportation suggestions, tourist attractions, local cuisines, weather insights, and travel tips in a single intelligent dashboard.
 
+tripgenius/frontend/src/components/hero/TravelHero.tsx
+
 ## Features
 
 * User Registration and Authentication
