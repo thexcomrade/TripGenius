@@ -1,17 +1,17 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:00FF99&height=220&section=header&text=TripGenius%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20Personal%20AI%20Travel%20Companion&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00C2FF,100:00FF99&text=TripGenius%20AI&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20Personal%20AI%20Travel%20Companion&descAlignY=60"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/AI-Gemini-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/FastAPI-Python-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/Next.js-TypeScript-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hackathon-2026-orange?style=for-the-badge">
 </p>
 
-<p align="center">
+<h3 align="center">
 🌍 Discover • ✈️ Plan • 🏨 Stay • 🍲 Explore • 🎒 Travel
-</p>
+</h3>
 
 ### ✈️ Plan Smarter. Travel Better.
 
