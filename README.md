@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/AI-Gemini-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/FastAPI-Python-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/Next.js-TypeScript-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hackathon-2026-orange?style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=thexcomrade&label=Visitors&color=00C2FF&style=flat-square" />
 </p>
 
 <h3 align="center">
