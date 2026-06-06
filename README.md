@@ -17,7 +17,6 @@
   <b>Plan Smarter. Travel Better.</b>
 </p>
 
-### ✈️ Plan Smarter. Travel Better.
 
 TripGenius AI is an intelligent travel planning platform that transforms a few simple user inputs into a complete, personalized travel experience. By combining Generative AI, real-time weather insights, and destination intelligence, TripGenius creates end-to-end travel itineraries tailored to each traveler's budget, interests, duration, and destination preferences.
 
