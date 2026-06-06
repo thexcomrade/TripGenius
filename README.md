@@ -1,4 +1,10 @@
-# 🌍 TripGenius AI
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C2FF,100:00FFB3&text=TripGenius%20AI&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Plan%20Smarter.%20Travel%20Better.&descAlignY=60"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=✈️+AI-Powered+Travel+Planning;🌍+Personalized+Trip+Recommendations;🏨+Hotels+•+🍲+Food+•+🌤️+Weather;🚀+Built+for+ClaySys+AI%2FML+Hackathon+2026"/>
+</p>
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![AI Powered](https://img.shields.io/badge/AI-Gemini-blue)
@@ -11,9 +17,6 @@ TripGenius AI is an intelligent travel planning platform that transforms a few s
 
 Whether you're planning a weekend getaway, a family vacation, a solo adventure, or a budget-friendly exploration, TripGenius acts as your personal AI travel companion—helping you discover attractions, accommodations, local cuisines, travel tips, and optimized day-wise schedules in seconds.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C2FF,100:00FFB3&text=TripGenius%20AI&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Your%20Personal%20AI%20Travel%20Companion&descAlignY=60"/>
-</p>
 ---
 
 ## 🚀 Problem Statement
