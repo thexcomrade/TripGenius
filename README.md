@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=48&pause=2000&color=2E8B57&center=true&vCenter=true&width=900&height=100&lines=🌿+TripGenius+AI+🌿" />
-</p>
-
-<p align="center">
-  ✈️ Plan Smarter. Travel Better.
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=52&pause=2000&color=00A86B&center=true&vCenter=true&width=1000&height=100&lines=🌎+TripGenius+AI;✈️+Your+Personal+AI+Travel+Companion" />
 </p>
 
 <p align="center">
