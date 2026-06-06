@@ -1,21 +1,21 @@
-<h1 align="center">
-  🌍 TripGenius AI
-</h1>
-
-<h3 align="center">
-  Your Personal AI Travel Companion
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C2FF,100:00FF99&text=TripGenius%20AI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Travel%20Planning%20Platform&descAlignY=60"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Gemini-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/FastAPI-Python-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Next.js-TypeScript-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hackathon-ClaySys%202026-orange?style=for-the-badge">
 </p>
 
-<p align="center">
+<h3 align="center">
 🌍 Discover • ✈️ Plan • 🏨 Stay • 🍲 Explore • 🎒 Travel
-</p>
+</h3>
+
+<h4 align="center">
+Plan Smarter. Travel Better.
+</h4>
 
 ### ✈️ Plan Smarter. Travel Better.
 
