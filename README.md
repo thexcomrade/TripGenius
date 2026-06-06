@@ -1,22 +1,18 @@
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250">
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=thexcomrade&label=TripGenius%20Visitors&color=00C2FF&style=for-the-badge" />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C2FF,100:00FFB3&text=TripGenius%20AI&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Plan%20Smarter.%20Travel%20Better.&descAlignY=60"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=48&pause=2000&color=2E8B57&center=true&vCenter=true&width=900&height=100&lines=🌿+TripGenius+AI+🌿" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=✈️+AI-Powered+Travel+Planning;🌍+Personalized+Trip+Recommendations;🏨+Hotels+•+🍲+Food+•+🌤️+Weather;🚀+Built+for+ClaySys+AI%2FML+Hackathon+2026"/>
+  ✈️ Plan Smarter. Travel Better.
 </p>
 
-
-![Status](https://img.shields.io/badge/Status-Active-success)
-![AI Powered](https://img.shields.io/badge/AI-Gemini-blue)
-![Backend](https://img.shields.io/badge/FastAPI-Python-green)
-![Frontend](https://img.shields.io/badge/Next.js-TypeScript-black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/AI-Gemini-blue" />
+  <img src="https://img.shields.io/badge/FastAPI-Python-green" />
+  <img src="https://img.shields.io/badge/Next.js-TypeScript-black" />
+  <img src="https://komarev.com/ghpvc/?username=thexcomrade&label=Visitors&color=00C2FF&style=flat-square" />
+</p>
 
 ### ✈️ Plan Smarter. Travel Better.
 
