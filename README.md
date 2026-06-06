@@ -1,13 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=52&pause=2000&color=00A86B&center=true&vCenter=true&width=1000&height=100&lines=🌎+TripGenius+AI;✈️+Your+Personal+AI+Travel+Companion" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:00FF99&height=220&section=header&text=TripGenius%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20Personal%20AI%20Travel%20Companion&descAlignY=58"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/AI-Gemini-blue" />
-  <img src="https://img.shields.io/badge/FastAPI-Python-green" />
-  <img src="https://img.shields.io/badge/Next.js-TypeScript-black" />
-  <img src="https://komarev.com/ghpvc/?username=thexcomrade&label=Visitors&color=00C2FF&style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Gemini-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/FastAPI-Python-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Next.js-TypeScript-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
+
+<p align="center">
+🌍 Discover • ✈️ Plan • 🏨 Stay • 🍲 Explore • 🎒 Travel
 </p>
 
 ### ✈️ Plan Smarter. Travel Better.
